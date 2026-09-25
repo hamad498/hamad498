@@ -2,10 +2,10 @@
 
 # 👋 Hi, I'm Hammad Yousaf
 
-### .NET Developer | SQA Engineer | Automation Tester
+### .NET Developer | Automation Tester
 
 I am a Software Quality Assurance Engineer with a development background in
-**.NET and C#**, experienced in **Manual Testing, Automation Testing,
+**.NET and C#**, experienced in **Automation Testing,
 Selenium, Python, API Testing, and Web/Desktop/Mobile Application Testing**.
 
 <br/>
@@ -28,7 +28,7 @@ Selenium, Python, API Testing, and Web/Desktop/Mobile Application Testing**.
 
 ## 👨‍💻 About Me
 
-I'm a **.NET Developer and Software Quality Assurance Engineer** with
+I'm a **.NET Developer and SDET Engineer** with
 experience across software development, manual testing, and automation testing.
 
 My development background in **C# and .NET** helps me understand application
