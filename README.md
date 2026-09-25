@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Hammad Yousaf
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0078D4,100:512BD4&height=180&section=header&text=Hammad%20Yousaf&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=.NET%20Developer%20%7C%20SDET&descAlignY=58&descSize=18" width="100%"/>
 
-### .NET Developer | Automation Tester
+<br/>
 
-I am a Software Quality Assurance Engineer with a development background in
-**.NET and C#**, experienced in **Automation Testing,
-Selenium, Python, API Testing, and Web/Desktop/Mobile Application Testing**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=800&height=60&lines=C%23+%7C+.NET+%7C+ASP.NET;Python+%7C+Selenium+%7C+PyTest;API+Testing+%7C+Postman;Git+%7C+GitHub;SDET+%7C+Test+Automation" alt="Typing SVG"/>
+
+</div>
 
 <br/>
 
